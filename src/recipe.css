@@ -1,0 +1,22 @@
+.recipe {
+  border-radius: 10px;
+  box-shadow: 0px 5px 20px rgb(71, 71, 71);
+  margin: 20px;
+  display: flex;
+  width: 50%;
+  flex-direction: column;
+  justify-content: space-around;
+  background: white;
+  align-items: center;
+  min-width: 40px;
+}
+.image {
+  border-radius: 20px;
+  width: 200px;
+  height: 200px;
+  margin: 20px;
+}
+.cal {
+  font-size: 18px;
+  font-weight: bold;
+}
